@@ -2,7 +2,7 @@
 
 (# Título) \
 (### Título 2) \
-(Sin nada, parrafo normal) \
+(Sin nada, parrafo normal) 
 
 GIthub cheatsheet
 
